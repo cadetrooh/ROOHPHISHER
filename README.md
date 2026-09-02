@@ -45,7 +45,7 @@
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 ROOHPHISHER.py```
+ - ```python3 roohphisher.py```
 
 #### Or, directly run
 ```
