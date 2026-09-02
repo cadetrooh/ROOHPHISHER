@@ -183,7 +183,6 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ### [*] Support
 ####  Want to show support? Just spread the word and smash the star button
-###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
 
 ## Credits:
 [PyPhisher](https://gitlab.com/ROOHULAMINKHAN/ROOHHACKS/PyPhisher)
