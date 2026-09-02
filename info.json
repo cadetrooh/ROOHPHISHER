@@ -1,0 +1,23 @@
+[
+  {
+    "IP Address": "2401",
+    "OS Name": "Android",
+    "OS Version": "10",
+    "Platform": "Linux",
+    "CPU Architecture": "armv81",
+    "CPU Core": "8",
+    "GPU Vendor": "Google Inc. (Qualcomm)",
+    "GPU Renderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "Device Vendor": "Not Found",
+    "Device Model": "Not Found",
+    "RAM": "8GB",
+    "Browser Name": "Chrome",
+    "Browser Version": "150.0.0.0",
+    "Engine": "WebKit",
+    "Engine Version": "537.36",
+    "User Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+    "Resolution": "393x873",
+    "Language": "en-GB",
+    "Time Zone": "Pakistan Standard Time"
+  }
+]

@@ -1,0 +1,478 @@
+IP                   : 139.162.171.242
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Frankfurt, Germany, Europe
+GeoLocation(lat, lon): 50.1109221, 8.6821267
+Currency             : Euro
+
+IP                   : 139.162.171.242
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Frankfurt, Germany, Europe
+GeoLocation(lat, lon): 50.1109221, 8.6821267
+Currency             : Euro
+
+IP                   : 139.162.171.242
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Frankfurt, Germany, Europe
+GeoLocation(lat, lon): 50.1109221, 8.6821267
+Currency             : Euro
+
+IP                   : 139.162.171.242
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Frankfurt, Germany, Europe
+GeoLocation(lat, lon): 50.1109221, 8.6821267
+Currency             : Euro
+
+IP                   : 59.103.181.13
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 59.103.181.13
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 111.119.187.46
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Multan, Pakistan, Asia
+GeoLocation(lat, lon): 30.1983807, 71.4687028
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 111.119.187.46
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Multan, Pakistan, Asia
+GeoLocation(lat, lon): 30.1983807, 71.4687028
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 111.119.187.46
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Multan, Pakistan, Asia
+GeoLocation(lat, lon): 30.1983807, 71.4687028
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 2402:ad80:a5:bde7:c89:c4ff:fe99:831e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : D G Khan, Pakistan, Asia
+GeoLocation(lat, lon): 30.0489423, 70.645473
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 182.191.145.22
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 182.191.145.22
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+IP                   : 2401:ba80:a18d:8456:4cfe:a0ff:fe4b:a4fb
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7293882, 73.0931461
+Currency             : Pakistani Rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a1a1:d05c:f87f:d85c:7828:53ec
+IP Type              : IPv6
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Babuzai, Pakistan, Asia
+GeoLocation(lat, lon): 34.7218175, 72.4283755
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a1a1:d05c:f87f:d85c:7828:53ec
+IP Type              : IPv6
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Babuzai, Pakistan, Asia
+GeoLocation(lat, lon): 34.7218175, 72.4283755
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a1a1:d05c:f87f:d85c:7828:53ec
+IP Type              : IPv6
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Babuzai, Pakistan, Asia
+GeoLocation(lat, lon): 34.7218175, 72.4283755
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a1a1:d05c:f87f:d85c:7828:53ec
+IP Type              : IPv6
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Babuzai, Pakistan, Asia
+GeoLocation(lat, lon): 34.7218175, 72.4283755
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a1a1:d05c:f87f:d85c:7828:53ec
+IP Type              : IPv6
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Babuzai, Pakistan, Asia
+GeoLocation(lat, lon): 34.7218175, 72.4283755
+Currency             : Pakistani rupee
+
+IP                   : 2401:ba80:a19a:4f1:c8af:57ff:feae:9cab
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Islamabad, Pakistan, Asia
+GeoLocation(lat, lon): 33.7214841, 73.0432878
+Currency             : Pakistani rupee
+
+IP                   : 2402:e000:511:dc7a:d9c4:baf9:d748:d60e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Hyderabad Taluka, Pakistan, Asia
+GeoLocation(lat, lon): 25.3810931, 68.3734831
+Currency             : Pakistani rupee
+
+IP                   : 2402:e000:511:dc7a:d9c4:baf9:d748:d60e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Hyderabad Taluka, Pakistan, Asia
+GeoLocation(lat, lon): 25.3810931, 68.3734831
+Currency             : Pakistani rupee
+
+IP                   : 2402:e000:511:dc7a:d9c4:baf9:d748:d60e
+IP Type              : IPv6
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Hyderabad Taluka, Pakistan, Asia
+GeoLocation(lat, lon): 25.3810931, 68.3734831
+Currency             : Pakistani rupee
+
