@@ -49,7 +49,7 @@
 
 #### Or, directly run
 ```
-wget https://gitlab.com/ROOHULAMINKHAN/ROOHHACKS/ROOHPHISHER/-/raw/main/ROOHPHISHER.py && python3 ROOHPHISHER.py
+wget https://gitlab.com/ROOHULAMINKHAN/ROOHHACKS/ROOHPHISHER/-/raw/main/roohphisher.py && python3 roohphisher.py
 
 ```
 
