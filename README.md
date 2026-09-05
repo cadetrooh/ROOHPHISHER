@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://gitlab.com/ROOHULAMINKHAN/ROOHHACKS/ROOHPHISHER```
+ - ```git clone https://github.com/cadetrooh/ROOHPHISHER.git```
 
 ##### Enter the directory
  - ```cd ROOHPHISHER```
@@ -49,7 +49,7 @@
 
 #### Or, directly run
 ```
-wget https://gitlab.com/ROOHULAMINKHAN/ROOHHACKS/ROOHPHISHER/-/raw/main/roohphisher.py && python3 roohphisher.py
+wget https://github.com/cadetrooh/ROOHPHISHER.git/-/raw/main/roohphisher.py && python3 roohphisher.py
 
 ```
 
